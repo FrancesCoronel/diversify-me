@@ -1,6 +1,6 @@
 # DiversifyMe
 
-## This is a list of tech conferences happening that provide diversity travel grants/scholarships.
+## This is a list of tech conferences that provide diversity travel grants/scholarships.
 
 > Most of these conferences require the applicant to be over 18 years old and either a student in a CS-related major or a developer.
 
