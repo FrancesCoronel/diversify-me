@@ -24,11 +24,14 @@
 - <a href="http://2015.cssconf.eu/scholarships/" target="_blank">JSConf EU</a>
 - <a href="http://2015.cssconf.eu/scholarships/" target="_blank">Reject.JS EU</a>
 - <a href="https://facebook.github.io/react/blog/2015/12/04/react-js-conf-2016-diversity-scholarship.html" target="_blank">React.js Conf</a>
-- <a href="" target="_blank"></a>
-- <a href="" target="_blank"></a>
-- <a href="" target="_blank"></a>
-- <a href="" target="_blank"></a>
-- <a href="" target="_blank"></a>
+- <a href="https://openvisconf.com" target="_blank">OpenVis Conf</a>
+    - Details: https://openvisconf.com/blog/diversity-scholarships-2016/
+    - Apply: https://openvisconf.com/diversity-scholarship-application/
+    - Deadline: Sunday, January 31st, 2016
+- <a href="http://www.alterconf.com/" target="_blank">AlterConf</a>
+- <a href="https://djangocon.eu/scholarships/" target="_blank">DjangoCon EU</a>
+- <a href="http://www.writespeakcode.com/" target="_blank">Write, Speak, Code</a>
+- <a href="https://ti.to/spacecityjs/space-city-js-2016/" target="_blank">Space City JS</a>
 
 ---
 
