@@ -1,66 +1,78 @@
+![](https://d13yacurqjgara.cloudfront.net/users/196023/screenshots/2453486/dribbble-01-01_1x.png)
+
 # DiversifyMe
-
-![Gira Patel](https://d13yacurqjgara.cloudfront.net/users/196023/screenshots/2453486/dribbble-01-01_1x.png)
-
-> Source: [Gira Patel](https://dribbble.com/shots/2453486-Flat-Family)
 
 ## This is a list of tech conferences that provide diversity travel grants/scholarships.
 
-> Most of these conferences require the applicant to be over 18 years old and either a student in a CS-related major or a developer already.
+Most of these conferences require the applicant to be over 18 years old and either a student in a CS-related major or a developer already.
 
-> It is also required that the applicant is a member of an underrepresented group in tech, but this **kinda** goes without saying.
+It is also required that the applicant is a member of an underrepresented group in tech, but this **kinda** goes without saying.
 
----
+## North America
 
-## Conferences are in alphabetical order.
+- [AlterConf](http://www.alterconf.com/)
+- [CascadiaFest](http://2015.cascadiajs.com/news/scholarship)
+- [ClojureConf](http://clojure-conj.org/opportunity)
+- [Codeland Conf](http://codelandconf.com/)
+- [CSSconf](https://2015.cssconf.com/diversity-scholarship/)
+- [Front Porch](http://frontporch.io/)
+- [Google Travel Grants](https://www.google.com/edu/scholarships/google-travel-and-conference-grants/#!north-america)
+- [MongoDB World](https://www.mongodb.com/mongodb-diversity-scholarship)
+- [npm.camp](http://npm.camp/)
+- [O'Reilly Conferences](http://www.oreilly.com/conferences/diversity-application.csp)
+- [OpenVis Conf](https://openvisconf.com/diversity-scholarship-application/)
+- [PyCon](https://us.pycon.org/2016/assistance/)
+- [RailsConf](http://railsconf.com/)
+- [React.js Conf](https://facebook.github.io/react/blog/2015/12/04/react-js-conf-2016-diversity-scholarship.html)
+- [RubyConf](http://rubyconf.org/scholarship)
+- [Space City JS](https://ti.to/spacecityjs/space-city-js-2016/)
+- [Strange Loop](http://www.thestrangeloop.com/opportunity.html)
+- [Tech Inclusion Conferences](http://techinclusion.co/scholarship-application/)
+- [Thunder Plains](http://thunderplainsconf.com/)
+- [Write, Speak, Code](http://www.writespeakcode.com/)
 
-> ABCDEFGHIJKLMNOPQRSTUVWXYZ
+## Europe
 
-### North America
-
-- <a href="http://www.alterconf.com/" target="_blank">AlterConf</a>
-- <a href="http://codelandconf.com/" target="_blank">Codeland Conf</a>
-- <a href="http://2015.cascadiajs.com/news/scholarship" target="_blank">CascadiaFest</a>
-- <a href="http://clojure-conj.org/opportunity" target="_blank">ClojureConf</a>
-- <a href="https://2015.cssconf.com/diversity-scholarship/" target="_blank">CSSconf</a>
-- <a href="http://frontporch.io/" target="_blank">Front Porch</a>
-- <a href="https://www.google.com/edu/scholarships/google-travel-and-conference-grants/#!north-america" target="_blank">Google Travel Grants</a>
-- <a href="https://www.mongodb.com/mongodb-diversity-scholarship" target="_blank">MongoDB World</a>
-- <a href="http://npm.camp/" target="_blank">npm.camp</a>
-- <a href="http://www.oreilly.com/conferences/diversity-application.csp" target="_blank">O'Reilly Conferences</a>
-- <a href="https://openvisconf.com/diversity-scholarship-application/" target="_blank">OpenVis Conf</a>
-- <a href="https://us.pycon.org/2016/assistance/" target="_blank">PyCon</a>
-- <a href="http://railsconf.com/" target="_blank">RailsConf</a>
-- <a href="https://facebook.github.io/react/blog/2015/12/04/react-js-conf-2016-diversity-scholarship.html" target="_blank">React.js Conf</a>
-- <a href="http://rubyconf.org/scholarship" target="_blank">RubyConf</a>
-- <a href="https://ti.to/spacecityjs/space-city-js-2016/" target="_blank">Space City JS</a>
-- <a href="http://www.thestrangeloop.com/opportunity.html" target="_blank">Strange Loop</a>
-- <a href="http://techinclusion.co/scholarship-application/" target="_blank">Tech Inclusion Conferences</a>
-- <a href="http://thunderplainsconf.com/" target="_blank">Thunder Plains</a>
-- <a href="http://www.writespeakcode.com/" target="_blank">Write, Speak, Code</a>
-
-### Europe
-
-- <a href="http://2015.cssconf.eu/scholarships/" target="_blank">CSSconf EU</a>
-- <a href="https://2017.djangocon.eu/financial-assistance/" target="_blank">DjangoCon EU</a>
-- <a href="http://2015.cssconf.eu/scholarships/" target="_blank">JSConf EU</a>
-- <a href="http://events.linuxfoundation.org/events/mesoscon-europe/attend/scholarship" target="_blank">MesosCon Europe</a>
-- <a href="http://phpconference.co.uk/diversity/" target="_blank">PHP UK Conference</a>
-- <a href="http://2015.cssconf.eu/scholarships/" target="_blank">Reject.JS EU</a>
-
----
+- [CSSconf EU](http://2015.cssconf.eu/scholarships/)
+- [DjangoCon EU](https://2017.djangocon.eu/financial-assistance/)
+- [JSConf EU](http://2015.cssconf.eu/scholarships/)
+- [MesosCon Europe](http://events.linuxfoundation.org/events/mesoscon-europe/attend/scholarship)
+- [PHP UK Conference](http://phpconference.co.uk/diversity/)
+- [Reject.JS EU](http://2015.cssconf.eu/scholarships/)
 
 ## Contributing
 
-When submitting a pull request to add a conference(s), please follow the formatting below and insert the conference in the proper place to follow the chronological/alphabetical order.
+> To get started...
 
-### Formatting
+- 🍴 Fork this repo [here](https://github.com/fvcproductions/readme#fork-destination-box)
+- 🔨 Hack away
+- 😊 Add yourself as a contributor under credits
+- 🔧 Make a pull request [here](https://github.com/fvcproductions/readme/compare)
 
-- <a href="" target="_blank">Conference Name w/ Link to Scholarship Page</a>
+> Or just create an issue - any little bit of help counts! 😊
 
----
+- 😯 Create an issue [here](https://github.com/fvcproductions/readme/issues)!
 
-### Other Resources
+When submitting a pull request to add a conference(s), please follow the formatting below:
 
-- <a href="http://diversityfriendly.co/" target="_blank">Diversity Friendly - Tumblr</a>
-- <a href="https://github.com/RichardLitt/awesome-conferences" target="_blank">Awesome Conferences - GitHub</a>
+- [Conference Name w/ Link to Scholarship Page]()
+
+Insert the conference in the proper place to follow the chronological/alphabetical order.
+
+Use `Sort Lines` in `Sublime Text 3` to sort them easily.
+
+## Other Resources
+
+- [Diversity Friendly - Tumblr](http://diversityfriendly.co/)
+- [Awesome Conferences - GitHub](https://github.com/RichardLitt/awesome-conferences)
+
+## Credits
+
+- [FVCproductions](http://fvcproductions.com)
+- [Gira Patel](https://dribbble.com/shots/2453486-Flat-Family) (image)
+
+## Donations
+
+> Feed me... 🍕
+
+[![Donate via PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](http://paypal.me/fvcproductions)
