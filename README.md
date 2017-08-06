@@ -6,18 +6,20 @@
 
 ## This is a list of tech conferences that provide diversity travel grants or scholarships
 
-Most of these conferences require the applicant to be over 18 years old and a member of an underrepresented group in tech, but this **kinda** goes without saying.
+Most of these conferences require the applicant to be at least 18 years old and a member of an underrepresented group in tech, but this **kinda** goes without saying.
 
 ## North America
 
+> USA
+
 - [Abstractions](http://abstractions.io/scholarship/)
-- [AccessConference](http://accessconference.ca/about-access-2017/diversity-scholarship-2017/)
-- [AlterConf](http://www.alterconxf.com/)
-- [CascadiaFest](http://2015.cascadiajs.com/news/scholarship)
+- [AffectConf](https://affectconf.com/scholarships/)
+- [AlterConf](http://www.alterconf.com/)
 - [ClojureConf](http://clojure-conj.org/opportunity)
 - [Codeland Conf](http://codelandconf.com/)
-- [CSSConf](https://2015.cssconf.com/diversity-scholarship/)
+- [CSSConf](https://2016.cssconf.com/diversity-scholarship/)
 - [DockerCon](https://2017.dockercon.com/giving-back/)
+- [ElaConf](http://elaconf.com/grants/)
 - [Front Porch](http://frontporch.io/)
 - [GitHub Universe](https://github.com/blog/2410-scholarships-and-accessibility-at-github-universe)
 - [Google Travel Grants](https://www.google.com/edu/scholarships/google-travel-and-conference-grants/#!north-america)
@@ -30,8 +32,8 @@ Most of these conferences require the applicant to be over 18 years old and a me
 - [npm.camp](http://npm.camp/)
 - [O'Reilly Conferences](http://www.oreilly.com/conferences/diversity-application.csp)
 - [OpenVis Conf](https://openvisconf.com/diversity-scholarship-application/)
-- [PyCon](https://us.pycon.org/2016/assistance/)
-- [RailsConf](http://railsconf.com/)
+- [PyCon](https://us.pycon.org/2017/assistance/)
+- [RailsConf](http://railsconf.com/scholarships)
 - [React.js Conf](https://facebook.github.io/react/blog/2015/12/04/react-js-conf-2016-diversity-scholarship.html)
 - [RubyConf](http://rubyconf.org/scholarship)
 - [Space City JS](https://ti.to/spacecityjs/space-city-js-2016/)
@@ -42,6 +44,10 @@ Most of these conferences require the applicant to be over 18 years old and a me
 - [trySwift](https://blog.tryswift.co/try-swift-nyc-diversity-scholarships)
 - [Wonder Woman Tech](https://wonderwomentech.com/about-wonder-women-tech/wearechangemakers/scholarship-application/)
 - [Write, Speak, Code](http://www.writespeakcode.com/)
+
+> Canada
+
+- [AccessConference](http://accessconference.ca/about-access-2017/diversity-scholarship-2017/)
 
 ## Europe
 
