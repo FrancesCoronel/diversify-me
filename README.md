@@ -15,6 +15,7 @@ Most of these conferences require the applicant to be at least 18 years old and 
 - [Abstractions](http://abstractions.io/scholarship/)
 - [AffectConf](https://affectconf.com/scholarships/)
 - [AlterConf](http://www.alterconf.com/)
+- [Clarity](https://www.clarityconf.com/apply-for-scholarship)
 - [ClojureConf](http://clojure-conj.org/opportunity)
 - [Codeland Conf](http://codelandconf.com/)
 - [CSSConf](https://2016.cssconf.com/diversity-scholarship/)
