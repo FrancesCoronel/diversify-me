@@ -37,6 +37,7 @@ Most of these conferences require the applicant to be at least 18 years old and 
 * [RailsConf](http://railsconf.com/scholarships)
 * [React.js Conf](https://facebook.github.io/react/blog/2015/12/04/react-js-conf-2016-diversity-scholarship.html)
 * [RubyConf](http://rubyconf.org/scholarship)
+* [SCNA](https://scna.softwarecraftsmanship.org/) - scholarship info not yet available
 * [Space City JS](https://ti.to/spacecityjs/space-city-js-2016/)
 * [Strange Loop](http://www.thestrangeloop.com/opportunity.html)
 * [TAPIA Conference](http://tapiaconference.org/participate/scholarships/)
@@ -102,3 +103,4 @@ Please make sure to remove any whitespace as well.
 
 * [FVCproductions](http://fvcproductions.com)
 * [Gira Patel](https://dribbble.com/shots/2453486-Flat-Family) (Header Image)
+* [Krystal Maughan](https://kammitama5.github.io/about/)
