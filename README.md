@@ -4,7 +4,7 @@
 
 [![GitHub Issues](https://img.shields.io/github/issues/fvcproductions/diversify-me.svg?style=flat-square)](https://github.com/fvcproductions/diversify-me/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/fvcproductions/diversify-me.svg?style=flat-square)](https://github.com/fvcproductions/diversify-me/pulls) [![MIT License](https://img.shields.io/github/license/fvcproductions/diversify-me.svg?style=flat-square)](http://badges.mit-license.org) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](http://paypal.me/fvcproductions) [![Become a Patron!](https://img.shields.io/badge/Patreon-Become%20a%20Patron!-orange.svg?style=flat-square)](https://www.patreon.com/fvcproductions)
 
-## This is a list of tech conferences that provide diversity travel grants or scholarships.
+## A list of tech conferences that provide diversity travel grants or scholarships.
 
 Most of these conferences require the applicant to be at least 18 years old and a member of an underrepresented group in tech, but this **kinda** goes without saying.
 
