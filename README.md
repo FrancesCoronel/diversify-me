@@ -1,4 +1,4 @@
-![DiversifyMe](https://d13yacurqjgara.cloudfront.net/users/196023/screenshots/2453486/dribbble-01-01_1x.png)
+![DiversifyMe](https://cdn.dribbble.com/users/740218/screenshots/4478234/characters-dan.png)
 
 # DiversifyMe
 
@@ -102,5 +102,5 @@ Please make sure to remove any whitespace as well.
 ## Credits
 
 * [FVCproductions](http://fvcproductions.com)
-* [Gira Patel](https://dribbble.com/shots/2453486-Flat-Family) (Header Image)
+* [Konstantinos Pappas](https://dribbble.com/shots/4478234-Diverse-People) (Header Image)
 * [Krystal Maughan](https://kammitama5.github.io/about/)
