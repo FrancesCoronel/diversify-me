@@ -38,6 +38,7 @@ Most of these conferences require the applicant to be at least 18 years old and 
 * [React.js Conf](https://facebook.github.io/react/blog/2015/12/04/react-js-conf-2016-diversity-scholarship.html)
 * [RubyConf](http://rubyconf.org/scholarship)
 * [SCNA](https://scna.softwarecraftsmanship.org/)
+* [SIGNAL](https://www.twilio.com/blog/2018/07/apply-for-a-signal-2018-scholarship.html)
 * [Space City JS](https://ti.to/spacecityjs/space-city-js-2016/)
 * [Strange Loop](http://www.thestrangeloop.com/opportunity.html)
 * [TAPIA Conference](http://tapiaconference.org/participate/scholarships/)
