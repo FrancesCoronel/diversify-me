@@ -33,6 +33,7 @@ Most of these conferences require the applicant to be at least 18 years old and 
 * [npm.camp](http://npm.camp/)
 * [O'Reilly Conferences](http://www.oreilly.com/conferences/diversity-application.csp)
 * [OpenVis Conf](https://openvisconf.com/diversity-scholarship-application/)
+* [Out 4 Undergrad Tech](http://outforundergrad.org/tech/)
 * [PyCon](https://us.pycon.org/2017/assistance/)
 * [RailsConf](http://railsconf.com/scholarships)
 * [React.js Conf](https://facebook.github.io/react/blog/2015/12/04/react-js-conf-2016-diversity-scholarship.html)
@@ -105,3 +106,4 @@ Please make sure to remove any whitespace as well.
 * [FVCproductions](http://fvcproductions.com)
 * [Konstantinos Pappas](https://dribbble.com/shots/4478234-Diverse-People) (Header Image)
 * [Krystal Maughan](https://kammitama5.github.io/about/)
+* [Colleen Dunlap](https://github.com/colleenDunlap)
