@@ -26,6 +26,7 @@ Most of these conferences require the applicant to be at least 18 years old and 
 - [Google Travel Grants](https://www.google.com/edu/scholarships/google-travel-and-conference-grants/#!north-america)
 - [Grace Hopper Celebration of Women in Computing](https://ghc.anitaborg.org/2017-student-academic/2017-scholarships/)
 - [Linux Foundation - Open Source Summit](http://events.linuxfoundation.org/events/open-source-summit-north-america/attend/scholarship-opportunities)
+- [LocoMocoSec](https://locomocosec.com/di/)
 - [LoopConf](https://loopconf.com/scholarships/)
 - [Microsoft Diversity Scholarships](https://careers.microsoft.com/students/scholarships)
 - [MongoDB World](https://www.mongodb.com/mongodb-diversity-scholarship)
