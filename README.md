@@ -101,6 +101,7 @@ Please make sure to remove any whitespace as well.
 ## Other Resources
 
 - [Awesome Conferences - GitHub](https://github.com/RichardLitt/awesome-conferences)
+- [Diversify Tech - Tech Conference Scholarships](https://www.diversifytech.co/tech-conference-scholarships)
 - [Diversity Friendly - Tumblr](http://diversityfriendly.co/)
 - [DiversityTickets.org](https://diversitytickets.org/)
 
