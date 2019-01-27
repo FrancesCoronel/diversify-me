@@ -29,36 +29,32 @@
 - [MongoDB World](https://www.mongodb.com/mongodb-diversity-scholarship)
 - [Linux Foundation - Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive/attend/diversityscholarship)
 - [O'Reilly Conferences](http://www.oreilly.com/conferences/diversity-application.csp)
-- [Out 4 Undergrad Tech](http://outforundergrad.org/tech/)
-- [PyCon](https://us.pycon.org/2017/assistance/)
+- [Out 4 Undergrad Tech](http://outforundergrad.org/)
+- [PyCon](https://us.pycon.org/)
 - [RailsConf](http://railsconf.com/scholarships)
-- [React.js Conf](https://facebook.github.io/react/blog/2015/12/04/react-js-conf-2016-diversity-scholarship.html)
-- [RubyConf](http://rubyconf.org/scholarship)
-- [SCNA](https://scna.softwarecraftsmanship.org/)
-- [SIGNAL](https://www.twilio.com/blog/2018/07/apply-for-a-signal-2018-scholarship.html)
-- [Space City JS](https://ti.to/spacecityjs/space-city-js-2016/)
+- [React.js Conf](https://conf.reactjs.org/)
+- [RubyConf](http://rubyconf.org/)
+- [SIGNAL](https://signal.twilio.com/)
 - [Strange Loop](http://www.thestrangeloop.com/opportunity.html)
-- [TAPIA Conference](http://tapiaconference.org/participate/scholarships/)
-- [Tech Inclusion Conferences](http://techinclusion.co/scholarship-application/)
+- [TAPIA Conference](http://tapiaconference.org/)
+- [Tech Inclusion Conferences](https://techinclusion.co/)
 - [Thunder Plains](http://thunderplainsconf.com/)
-- [trySwift](https://blog.tryswift.co/try-swift-nyc-diversity-scholarships)
-- [Wonder Woman Tech](https://wonderwomentech.com/about-wonder-women-tech/wearechangemakers/scholarship-application/)
+- [trySwift](https://www.tryswift.co/)
+- [Wonder Woman Tech](https://wonderwomentech.com/)
 - [Write, Speak, Code](http://www.writespeakcode.com/)
 
 > Canada
 
-- [AccessConference](http://accessconference.ca/about-access-2017/diversity-scholarship-2017/)
+- [AccessConference](https://accessconference.ca/)
 
 ## Europe
 
-- [CSSconf EU](http://2015.cssconf.eu/scholarships/)
-- [DjangoCon EU](https://2017.djangocon.eu/financial-assistance/)
-- [ffconf](https://2017.ffconf.org/scholarship)
-- [Google Test Automation Conference](https://testing.googleblog.com/2017/05/gtac-diversity-scholarship.html)
-- [JSConf EU](https://2019.jsconf.eu/scholarships/)
+- [CSSconf EU](https://cssconf.eu/)
+- [DjangoCon EU](https://djangocon.eu/)
+- [ffconf](https://ffconf.org/)
+- [JSConf EU](https://jsconf.eu/)
 - [MesosCon Europe](http://events.linuxfoundation.org/events/mesoscon-europe/attend/scholarship)
 - [PHP UK Conference](http://phpconference.co.uk/diversity/)
-- [Reject.JS EU](http://2015.cssconf.eu/scholarships/)
 
 ## Code of Conduct
 
