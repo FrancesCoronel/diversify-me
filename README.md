@@ -55,7 +55,7 @@
 - [DjangoCon EU](https://2017.djangocon.eu/financial-assistance/)
 - [ffconf](https://2017.ffconf.org/scholarship)
 - [Google Test Automation Conference](https://testing.googleblog.com/2017/05/gtac-diversity-scholarship.html)
-- [JSConf EU](http://2015.cssconf.eu/scholarships/)
+- [JSConf EU](https://2019.jsconf.eu/scholarships/)
 - [MesosCon Europe](http://events.linuxfoundation.org/events/mesoscon-europe/attend/scholarship)
 - [PHP UK Conference](http://phpconference.co.uk/diversity/)
 - [Reject.JS EU](http://2015.cssconf.eu/scholarships/)
