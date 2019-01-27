@@ -78,7 +78,7 @@ More details can be found at this project's [code of conduct](.github/CODE_OF_CO
 When submitting a pull request to add a conference(s), please follow the formatting below:
 
 ```markdown
-- [Conference Name](Link to scholarship information)
+- [Conference Name](Link to conference)
 ```
 
 If the scholarship information is presented on the primary conference site, then you can link to that instead.
