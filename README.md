@@ -71,6 +71,7 @@
 - [PHP UK Conference](http://phpconference.co.uk/diversity/)
 - [React Amsterdam](https://react.amsterdam/)
 - [Serverlessdays Hamburg](https://hamburg.serverlessdays.io/)
+- [Spring I/0](https://2019.springio.net/diversity-scholarships)
 - [useR! Conference](http://user2019.r-project.org/)
 
 ## Code of Conduct
