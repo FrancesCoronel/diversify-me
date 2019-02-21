@@ -54,6 +54,7 @@
 - [Women in Cybersecurity Conference](https://www.wicys.org/conference)
 - [Wonder Woman Tech](https://wonderwomentech.com/)
 - [Write, Speak, Code](http://www.writespeakcode.com/)
+- [WWDC](https://developer.apple.com/wwdc/)
 
 > Canada
 
@@ -110,6 +111,7 @@ Please make sure to remove any whitespace as well.
 
 ## Credits
 
+- [Vardhan Agrawal ](http://www.vardhanagrawal.com)([Twitter](http://twitter.vardhanagrawal.com), [GitHub](http://github.vardhanagrawal.com))
 - [FVCproductions](http://fvcproductions.com)
 - [Konstantinos Pappas](https://dribbble.com/shots/4478234-Diverse-People) (Header Image)
 - [Krystal Maughan](https://kammitama5.github.io/about/)
