@@ -58,6 +58,7 @@
 > Canada
 
 - [AccessConference](https://accessconference.ca/)
+- [DevOps Toronto](https://devopsto.com/#diversity-scholarship)
 
 ## Europe
 
