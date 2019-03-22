@@ -22,7 +22,6 @@
 - [CSS Day](https://cssday.nl)
 - [DockerCon](https://dockercon.com/)
 - [EmberConf](https://emberconf.com/)
-- [FFConf](https://ffconf.org/)
 - [GitHub Universe](https://githubuniverse.com/)
 - [Google Travel Grants](https://buildyourfuture.withgoogle.com/scholarships/google-travel-and-conference-grants/#!/north-america?detail-content-tabby_activeEl=north-america)
 - [Grace Hopper Celebration of Women in Computing](https://ghc.anitab.org/)
@@ -74,6 +73,7 @@
 - [Serverlessdays Hamburg](https://hamburg.serverlessdays.io/)
 - [Spring I/0](https://2019.springio.net/diversity-scholarships)
 - [useR! Conference](http://user2019.r-project.org/)
+- [You Gotta Love Frontend Lithuania](https://lithuania.yglfconf.com/scholarship)
 
 ## Code of Conduct
 
