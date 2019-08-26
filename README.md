@@ -14,6 +14,7 @@
 
 - [Abstractions](https://abstractions.io/)
 - [AffectConf](https://affectconf.com/scholarships/)
+- [AWS re:Invent](https://reinvent.awsevents.com/community/we_power_tech_grant/)
 - [Clarity Conf](https://www.clarityconf.com/)
 - [Clarity](https://www.clarityconf.com/)
 - [Clojure/Conj](http://clojure-conj.org/opportunity)
@@ -116,3 +117,4 @@ Please make sure to remove any whitespace as well.
 - [Konstantinos Pappas](https://dribbble.com/shots/4478234-Diverse-People) (Header Image)
 - [Krystal Maughan](https://kammitama5.github.io/about/)
 - [Colleen Dunlap](https://github.com/colleenDunlap)
+- [Bryan Dosono](https://www.bdosono.com/)
