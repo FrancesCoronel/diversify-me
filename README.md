@@ -14,6 +14,7 @@
 
 - [Abstractions](https://abstractions.io/)
 - [AffectConf](https://affectconf.com/scholarships/)
+- [AfroTech](https://experience.afrotech.com/)
 - [AWS re:Invent](https://reinvent.awsevents.com/community/we_power_tech_grant/)
 - [Clarity Conf](https://www.clarityconf.com/)
 - [Clarity](https://www.clarityconf.com/)
@@ -118,3 +119,4 @@ Please make sure to remove any whitespace as well.
 - [Krystal Maughan](https://kammitama5.github.io/about/)
 - [Colleen Dunlap](https://github.com/colleenDunlap)
 - [Bryan Dosono](https://www.bdosono.com/)
+- [Mo Hampton](https://www.twitter.com/moxiehampton)
