@@ -62,6 +62,7 @@
 
 - [AccessConference](https://accessconference.ca/)
 - [DevOps Toronto](https://devopsto.com/#diversity-scholarship)
+- [GoCon](https://gocon.ca/#diversity-scholarship)
 
 ## Europe
 
@@ -122,3 +123,4 @@ Please make sure to remove any whitespace as well.
 - [Bryan Dosono](https://www.bdosono.com/)
 - [Mo Hampton](https://www.twitter.com/moxiehampton)
 - [Marouen Helali](https://github.com/Marwan01)
+- [Jessica Xie](https://github.com/jessicaxiejw)
