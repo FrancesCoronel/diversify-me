@@ -30,6 +30,7 @@
 - [JSConf Hawai'i](https://www.jsconfhi.com/)
 - [JSConf USA](https://jsconf.us/)
 - [Kong Summit](https://konghq.com/kong-summit/diversity-scholarship/)
+- [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/diversity-scholarships)
 - [Linux Foundation - Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive/attend/diversityscholarship)
 - [Linux Foundation - Open Source Summit](http://events.linuxfoundation.org/events/open-source-summit-north-america/attend/scholarship-opportunities)
 - [LocoMocoSec](https://locomocosec.com/di/)
