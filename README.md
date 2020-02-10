@@ -30,6 +30,7 @@
 - [JSConf Hawai'i](https://www.jsconfhi.com/)
 - [JSConf USA](https://jsconf.us/)
 - [Kong Summit](https://konghq.com/kong-summit/diversity-scholarship/)
+- [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/diversity-scholarships)
 - [Linux Foundation - Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive/attend/diversityscholarship)
 - [Linux Foundation - Open Source Summit](http://events.linuxfoundation.org/events/open-source-summit-north-america/attend/scholarship-opportunities)
 - [LocoMocoSec](https://locomocosec.com/di/)
@@ -61,6 +62,7 @@
 
 - [AccessConference](https://accessconference.ca/)
 - [DevOps Toronto](https://devopsto.com/#diversity-scholarship)
+- [GoCon](https://gocon.ca/#diversity-scholarship)
 
 ## Europe
 
@@ -120,3 +122,5 @@ Please make sure to remove any whitespace as well.
 - [Colleen Dunlap](https://github.com/colleenDunlap)
 - [Bryan Dosono](https://www.bdosono.com/)
 - [Mo Hampton](https://www.twitter.com/moxiehampton)
+- [Marouen Helali](https://github.com/Marwan01)
+- [Jessica Xie](https://github.com/jessicaxiejw)
