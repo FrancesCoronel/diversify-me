@@ -75,7 +75,7 @@
 - [JSConf EU](https://jsconf.eu/)
 - [MesosCon Europe](http://events.linuxfoundation.org/events/mesoscon-europe/attend/scholarship)
 - [PHP UK Conference](http://phpconference.co.uk/diversity/)
-- [React Amsterdam](https://react.amsterdam/)
+- [React Summit](https://medium.com/@ReactAmsterdam/react-summit-2020-diversity-scholarships-now-available-dfaaa9cfc6d3)
 - [Serverlessdays Hamburg](https://hamburg.serverlessdays.io/)
 - [Spring I/0](https://2019.springio.net/diversity-scholarships)
 - [useR! Conference](http://user2019.r-project.org/)
