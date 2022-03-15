@@ -2,7 +2,7 @@
 
 # DiversifyMe
 
-[![GitHub Issues](https://img.shields.io/github/issues/fvcproductions/diversify-me.svg?style=flat-square)](https://github.com/fvcproductions/diversify-me/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/fvcproductions/diversify-me.svg?style=flat-square)](https://github.com/fvcproductions/diversify-me/pulls) [![MIT License](https://img.shields.io/github/license/fvcproductions/diversify-me.svg?style=flat-square)](http://badges.mit-license.org) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](http://paypal.me/fvcproductions) [![Become a Patron!](https://img.shields.io/badge/Patreon-Become%20a%20Patron!-orange.svg?style=flat-square)](https://www.patreon.com/fvcproductions)
+[![GitHub Issues](https://img.shields.io/github/issues/FrancesCoronel/diversify-me.svg?style=flat-square)](https://github.com/FrancesCoronel/diversify-me/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/FrancesCoronel/diversify-me.svg?style=flat-square)](https://github.com/FrancesCoronel/diversify-me/pulls) [![MIT License](https://img.shields.io/github/license/FrancesCoronel/diversify-me.svg?style=flat-square)](http://badges.mit-license.org)
 
 **A list of tech conferences that provide diversity travel grants or scholarships.**
 
@@ -91,14 +91,14 @@ More details can be found at this project's [code of conduct](.github/CODE_OF_CO
 
 > To get started...
 
-- 🍴 Fork this repo [here](https://github.com/fvcproductions/diversify-me#fork-destination-box)
+- 🍴 Fork this repo [here](https://github.com/FrancesCoronel/diversify-me#fork-destination-box)
 - 🔨 Hack away
 - 😊 Add yourself as a contributor under credits
-- 🔧 Make a pull request [here](https://github.com/fvcproductions/diversify-me/compare)
+- 🔧 Make a pull request [here](https://github.com/FrancesCoronel/diversify-me/compare)
 
 > Or just create an issue - any little bit of help counts! 😊
 
-- 😯 Create an issue [here](https://github.com/fvcproductions/diversify-me/issues)!
+- 😯 Create an issue [here](https://github.com/FrancesCoronel/diversify-me/issues)!
 
 When submitting a pull request to add a conference(s), please follow the formatting below:
 
@@ -117,7 +117,7 @@ Please make sure to remove any whitespace as well.
 
 ## Credits
 
-- [FVCproductions](http://fvcproductions.com)
+- [Frances Coronel](https://francescoronel.com)
 - [Konstantinos Pappas](https://dribbble.com/shots/4478234-Diverse-People) (Header Image)
 - [Krystal Maughan](https://kammitama5.github.io/about/)
 - [Colleen Dunlap](https://github.com/colleenDunlap)
