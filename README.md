@@ -43,6 +43,7 @@
 - [PerfMatters Conf](https://perfmattersconf.com/)
 - [Pioneer Grid](https://pioneergrid.com/)
 - [PyCon](https://us.pycon.org/)
+- [PyData](https://pydata.org/diversity-inclusion/)
 - [Racketfest](https://racketfest.com/)
 - [RailsConf](http://railsconf.com/scholarships)
 - [React.js Conf](https://conf.reactjs.org/)
@@ -125,3 +126,4 @@ Please make sure to remove any whitespace as well.
 - [Mo Hampton](https://www.twitter.com/moxiehampton)
 - [Marouen Helali](https://github.com/Marwan01)
 - [Jessica Xie](https://github.com/jessicaxiejw)
+- [Dana Rocha](https://github.com/dana-rocha)
