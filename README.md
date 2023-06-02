@@ -26,7 +26,7 @@
 - [DockerCon](https://dockercon.com/)
 - [EmberConf](https://emberconf.com/)
 - [GitHub Universe](https://githubuniverse.com/)
-- [Google Travel Grants](https://buildyourfuture.withgoogle.com/scholarships/google-travel-and-conference-grants/#!/north-america?detail-content-tabby_activeEl=north-america)
+- [Google Travel Grants](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships)
 - [Grace Hopper Celebration of Women in Computing](https://ghc.anitab.org/)
 - [JSConf Hawai'i](https://www.jsconfhi.com/)
 - [JSConf USA](https://jsconf.us/)
