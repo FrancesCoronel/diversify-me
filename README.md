@@ -28,6 +28,7 @@
 - [GitHub Universe](https://githubuniverse.com/)
 - [Google Travel Grants](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships)
 - [Grace Hopper Celebration of Women in Computing](https://ghc.anitab.org/)
+- [Harvard WECode](https://www.harvardwecode.com/)
 - [JSConf Hawai'i](https://www.jsconfhi.com/)
 - [JSConf USA](https://jsconf.us/)
 - [Kong Summit](https://konghq.com/kong-summit/diversity-scholarship/)
