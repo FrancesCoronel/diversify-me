@@ -21,6 +21,7 @@
 - [Clojure/Conj](http://clojure-conj.org/opportunity)
 - [Code Sync](https://codesync.global/)
 - [Codeland Conf](http://codelandconf.com/)
+- [Codemotion Conference Madrid](https://conferences.codemotion.com/madrid/inclusion-y-diversidad/)
 - [CSS Day](https://cssday.nl)
 - [Deconstruct](https://www.deconstructconf.com/)
 - [DockerCon](https://dockercon.com/)
@@ -129,3 +130,4 @@ Please make sure to remove any whitespace as well.
 - [Jessica Xie](https://github.com/jessicaxiejw)
 - [Dana Rocha](https://github.com/dana-rocha)
 - [Farhana Mustafa](https://github.com/fmustafa17)
+- [Luca Fregoso](https://github.com/lucafregoso)
