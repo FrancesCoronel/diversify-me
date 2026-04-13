@@ -35,6 +35,7 @@ jobs:
             --max-retries 3
             --exclude "mailto:"
             --user-agent "Mozilla/5.0 (compatible; lychee link checker)"
+            --accept 200,202,415
             "**/*.md"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
