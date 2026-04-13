@@ -31,17 +31,13 @@
 - [Grace Hopper Celebration of Women in Computing](https://ghc.anitab.org/)
 - [Harvard WECode](https://www.harvardwecode.com/)
 - [JSConf Hawai'i](https://www.jsconfhi.com/)
-- [JSConf USA](https://jsconf.us/)
 - [Kong Summit](https://konghq.com/kong-summit/diversity-scholarship/)
 - [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/diversity-scholarships)
 - [Linux Foundation - Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive/attend/diversityscholarship)
 - [Linux Foundation - Open Source Summit](http://events.linuxfoundation.org/events/open-source-summit-north-america/attend/scholarship-opportunities)
 - [LocoMocoSec](https://locomocosec.com/di/)
-- [Microsoft Diversity Scholarships](https://careers.microsoft.com/us/en/usscholarshipprogram)
 - [MongoDB World](https://www.mongodb.com/mongodb-diversity-scholarship)
 - [O'Reilly Conferences](http://www.oreilly.com/conferences/diversity-application.csp)
-- [Open Go](https://opengo.io/)
-- [Out 4 Undergrad Tech](http://outforundergrad.org/)
 - [PerfMatters Conf](https://perfmattersconf.com/)
 - [Pioneer Grid](https://pioneergrid.com/)
 - [PyCon](https://us.pycon.org/)
@@ -53,20 +49,17 @@
 - [RubyConf](http://rubyconf.org/)
 - [SIGNAL](https://signal.twilio.com/)
 - [Strange Loop](http://www.thestrangeloop.com/opportunity.html)
-- [TAPIA Conference](http://tapiaconference.org/)
 - [Tech Inclusion Conferences](https://techinclusion.co/)
 - [The LEad Developer](https://theleaddeveloper.com/)
 - [Thunder Plains](http://thunderplainsconf.com/)
 - [trySwift](https://www.tryswift.co/)
 - [Women in Cybersecurity Conference](https://www.wicys.org/conference)
 - [Wonder Woman Tech](https://wonderwomentech.com/)
-- [Write, Speak, Code](http://www.writespeakcode.com/)
 
 > Canada
 
 - [AccessConference](https://accessconference.ca/)
 - [DevOps Toronto](https://devopsto.com/#diversity-scholarship)
-- [GoCon](https://gocon.ca/#diversity-scholarship)
 
 ## Europe
 
@@ -79,10 +72,7 @@
 - [MesosCon Europe](http://events.linuxfoundation.org/events/mesoscon-europe/attend/scholarship)
 - [PHP UK Conference](http://phpconference.co.uk/diversity/)
 - [React Summit](https://medium.com/@ReactAmsterdam/react-summit-2020-diversity-scholarships-now-available-dfaaa9cfc6d3)
-- [Serverlessdays Hamburg](https://hamburg.serverlessdays.io/)
-- [Spring I/0](https://2019.springio.net/diversity-scholarships)
 - [useR! Conference](http://user2019.r-project.org/)
-- [You Gotta Love Frontend Lithuania](https://lithuania.yglfconf.com/scholarship)
 
 ## Code of Conduct
 
