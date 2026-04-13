@@ -34,6 +34,7 @@ jobs:
             --retry-wait-time 5
             --max-retries 3
             --exclude "mailto:"
+            --user-agent "Mozilla/5.0 (compatible; lychee link checker)"
             "**/*.md"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
