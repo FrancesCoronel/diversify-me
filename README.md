@@ -33,7 +33,6 @@
 - [HOLA Scholarship at Microsoft](https://www.microsoft.com/en-us/diversity/programs/hola-scholarship)
 - [JSConf Hawai'i](https://www.jsconfhi.com/)
 - [JSConf North America](https://events.linuxfoundation.org/jsconf-north-america/attend/scholarships-travel-funding/)
-- [Kong Summit](https://konghq.com/kong-summit/diversity-scholarship/)
 - [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/diversity-scholarships)
 - [Linux Foundation - Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive/attend/diversityscholarship)
 - [Linux Foundation - Open Source Summit](http://events.linuxfoundation.org/events/open-source-summit-north-america/attend/scholarship-opportunities)
