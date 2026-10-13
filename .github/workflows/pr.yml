@@ -17,7 +17,7 @@ jobs:
     uses: FrancesCoronel/workflows/.github/workflows/ci-markdown.yml@v1
 
   security:
-    uses: FrancesCoronel/workflows/.github/workflows/security.yml@claude/quality-gates
+    uses: FrancesCoronel/workflows/.github/workflows/security.yml@v1
 
   dependabot:
     needs: [ci, security]
