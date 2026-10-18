@@ -110,6 +110,7 @@ Please make sure to remove any whitespace as well.
 
 - [Diversify Tech - Tech Conference Scholarships](https://www.diversifytech.co/tech-conference-scholarships)
 - [DiversityTickets.org](https://diversitytickets.org/)
+- [ScholarMatch](https://www.scholarmatch.me) - Fully funded study abroad scholarship search engine and database for South Asian and international students.
 
 ## Credits
 
