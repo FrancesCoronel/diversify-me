@@ -1,0 +1,18 @@
+name: Update or remove a conference
+description: Report a dead link or a conference that no longer offers grants 🔧
+title: "Update: "
+labels: ["bug"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Conference name
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What should change?
+      placeholder: The scholarship page moved to https://example.com/grants
+    validations:
+      required: true

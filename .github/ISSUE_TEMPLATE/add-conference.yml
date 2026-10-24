@@ -1,0 +1,39 @@
+name: Add a conference
+description: Suggest a conference that offers diversity travel grants or scholarships 🌎
+title: "Add: "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Conference name
+      placeholder: JSConf North America
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link to the scholarship or travel grant page
+      description: Link to the page about the grant, not just the conference home page, if one exists.
+      placeholder: https://example.com/scholarships
+    validations:
+      required: true
+  - type: dropdown
+    id: region
+    attributes:
+      label: Region
+      options:
+        - North America
+        - Europe
+        - Other
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I searched the list and this conference isn't already there
+          required: true
+        - label: The conference still offers the grant or scholarship
+          required: true
