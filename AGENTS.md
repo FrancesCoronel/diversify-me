@@ -4,7 +4,7 @@ Guidance for AI coding agents (Claude Code, Copilot, Codex, and others) working 
 
 ## What this repo is
 
-A list of tech conferences that offer diversity travel grants or scholarships, kept in `README.md` and published at [francescoronel.github.io/diversify-me](https://francescoronel.github.io/diversify-me/).
+A list of tech conferences that offer diversity travel grants or scholarships, kept in `README.md`. The GitHub Pages URL ([francescoronel.github.io/diversify-me](https://francescoronel.github.io/diversify-me/)) is only `index.html`, a redirect back to this repo, so all content changes go in `README.md`.
 
 ## Adding or updating a conference
 
