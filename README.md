@@ -33,8 +33,6 @@
 - [JSConf Hawai'i](https://www.jsconfhi.com/)
 - [JSConf North America](https://events.linuxfoundation.org/jsconf-north-america/attend/scholarships-travel-funding/)
 - [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/diversity-scholarships)
-- [Linux Foundation - Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive/attend/diversityscholarship)
-- [Linux Foundation - Open Source Summit](http://events.linuxfoundation.org/events/open-source-summit-north-america/attend/scholarship-opportunities)
 - [Microsoft Disability Scholarship](https://www.microsoft.com/en-us/diversity/programs/microsoftdisabilityscholarship)
 - [MongoDB World](https://www.mongodb.com/mongodb-diversity-scholarship)
 - [O'Reilly Conferences](http://www.oreilly.com/conferences/diversity-application.csp)
@@ -72,7 +70,6 @@
 - [Drupal Mountain Camp](https://drupalmountaincamp.ch/)
 - [ffconf](https://ffconf.org/)
 - [JSConf EU](https://jsconf.eu/)
-- [MesosCon Europe](http://events.linuxfoundation.org/events/mesoscon-europe/attend/scholarship)
 - [React Summit](https://medium.com/@ReactAmsterdam/react-summit-2020-diversity-scholarships-now-available-dfaaa9cfc6d3)
 - [useR! Conference](http://user2019.r-project.org/)
 
