@@ -17,7 +17,6 @@
 - [AfroTech](https://experience.afrotech.com/)
 - [AWS re:Invent](https://reinvent.awsevents.com/)
 - [BAM Scholarship at Microsoft](https://www.microsoft.com/en-us/diversity/programs/bam-scholarship)
-- [Clarity Conf](https://www.clarityconf.com/)
 - [Clarity](https://www.clarityconf.com/)
 - [Code Sync](https://codesync.global/)
 - [Codeland Conf](http://codelandconf.com/)
