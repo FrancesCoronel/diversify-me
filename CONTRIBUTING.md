@@ -1,22 +1,3 @@
 ## Contributing
 
-> To get started...
-
-- 🍴 [Fork this repo](https://github.com/FrancesCoronel/diversify-me#fork-destination-box)
-- 🔨 Hack away
-- 😊 Add yourself as a contributor under credits
-- 🔧 [Make a pull request](https://github.com/FrancesCoronel/diversify-me/compare)
-
-> Or just create an issue - any little bit of help counts! 😊
-
-- 😯 [Create an issue](https://github.com/FrancesCoronel/diversify-me/issues)!
-
-When submitting a pull request to add a conference(s), please follow the formatting below:
-
-```markdown
-- [Conference Name](Link to conference or scholarship information)
-```
-
-Insert the conference in the proper place to follow the alphabetical order.
-
-Please make sure to remove any whitespace as well.
+This repo is archived. The conference list now lives in [hire-me](https://github.com/FrancesCoronel/hire-me): add or update conferences in [`docs/02-search/conference-scholarships.md`](https://github.com/FrancesCoronel/hire-me/blob/master/docs/02-search/conference-scholarships.md), following hire-me's [contributing guidelines](https://github.com/FrancesCoronel/hire-me/blob/master/CONTRIBUTING.md).
