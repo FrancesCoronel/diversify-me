@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Add or update a conference in hire-me
+    url: https://github.com/FrancesCoronel/hire-me/issues/new?template=suggest-resource.yml
+    about: This list moved to hire-me. Suggest conference scholarships and travel grants there.
+  - name: Browse conference scholarships
+    url: https://engjobsearch.com/#/02-search/conference-scholarships
+    about: The current, maintained list.
+  - name: Report a security vulnerability
+    url: https://github.com/FrancesCoronel/diversify-me/security/policy
+    about: Please don't open a public issue. Follow the security policy instead.
